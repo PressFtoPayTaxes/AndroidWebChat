@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebChat</string>
+    <string name="server_addr">192.168.1.104</string>
+</resources>
